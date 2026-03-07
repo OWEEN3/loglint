@@ -16,7 +16,7 @@
 ## 📋 Требования
 
 - Go 1.21 или выше
-- [golangci-lint](https://golangci-lint.run/) версии 1.64.5 или выше
+- [golangci-lint](https://golangci-lint.run/)
 
 ## 🚀 Быстрый старт
 

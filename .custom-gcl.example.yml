@@ -2,4 +2,4 @@ version: "v1.64.5"
 plugins:
   - module: github.com/OWEEN3/loglint
     import: github.com/OWEEN3/loglint/plugin
-    version: v0.0.5
+    version: v1.0.0

@@ -49,4 +49,4 @@ echo -e "${GREEN}===> 4. Запуск линтера loglint...${NC}"
 ./custom-gcl run
 
 echo -e "\n${YELLOW}Проверка завершена.${NC}"
-echo -e "${YELLOW}Для удаления временных файлов выполните: $0 --clean${NC}"
+echo -e "${YELLOW}Для удаления временных файлов выполните: curl -sSfL https://raw.githubusercontent.com/OWEEN3/loglint/main/install_and_run.sh | bash -s -- --clean${NC}"

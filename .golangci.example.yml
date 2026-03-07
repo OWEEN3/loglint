@@ -1,0 +1,8 @@
+linters:
+  disable-all: true
+  enable:
+    - loglint
+linters-settings:
+  custom:
+    loglint:
+      type: "module"
